@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Emotion UI</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="theme-toggle">
+    <button id="themeToggle">🌙 Toggle Mode</button>
+  </div>
+
+  <div class="app-container">
+    <div class="header-bar">
+      <div class="project-name">🌟 Project name</div>
+      <div class="welcome-msg">Welcome!</div>
+    </div>
+
+    <div class="card section-card">
+      <h2>🎤 Speech Input</h2>
+      <button class="btn gradient-btn" id="listenBtn">Start Listening</button>
+    </div>
+
+    <div class="card section-card">
+      <h2>📝 Transcription</h2>
+      <div class="transcription-box" placeholder="You said..."></div>
+    </div>
+
+    <div class="card emotion-card">
+      <div class="emotion-icon">😔</div>
+      <div class="emotion-text">
+        <h3>Detected Emotion: <span class="emotion-state">Sad</span></h3>
+        <p>We're here to help.</p>
+      </div>
+    </div>
+
+    <div class="card section-card">
+      <h2>🚨 If Tri-triggered</h2>
+      <div class="grid-actions">
+        <button class="action-btn">🎵 Calming Music</button>
+        <button class="action-btn">🧘 Guided Meditation</button>
+        <button class="action-btn">🎮 Casual Game</button>
+      </div>
+    </div>
+
+    <div class="card section-card">
+      <h2>💊 Take Your Medicine</h2>
+      <div class="instruction-steps">
+        <p><strong>Instruction Steps (if ADL):</strong></p>
+        <p>1️⃣ Step 1: Go to the kitchen.</p>
+        <button class="btn done-btn">✅ I'm done</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
