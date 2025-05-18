@@ -76,7 +76,4 @@ def process_uploaded_file(file_content, translate_to=None):
             else:
                 print(cleaned)
 
-# File input for Codespaces/Jupyter/VS Code
-if __name__ == "__main__":
-    with open("input.txt", "rb") as f:
-        process_uploaded_file(f.read(), translate_to=None)
+
