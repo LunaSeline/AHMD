@@ -1,0 +1,12 @@
+torch
+# Remove torchaudio since it's causing issues
+# torchaudio>=2.0.0
+transformers>=4.30.0
+datasets
+librosa
+soundfile
+numpy
+joblib
+sentencepiece
+protobuf
+accelerate
