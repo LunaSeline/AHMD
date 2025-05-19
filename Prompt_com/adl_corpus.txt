@@ -1,0 +1,337 @@
+I am going to attend a meeting.
+Today I will catch up with colleagues.
+I need to video chat with my children.
+I should dust the furniture.
+I want to text my family.
+I plan to lie down for a bit.
+I'm about to heat up leftovers.
+This morning I will shave.
+This afternoon I plan to answer emails.
+Tonight I should make phone calls.
+Later today I need to go to physical therapy.
+I have to make phone calls.
+I must meditate.
+I might wash the dishes.
+I would like to listen to music.
+I'm thinking about take my vitamins.
+I'm considering go to the gym.
+I should probably wash the dishes.
+I always take my medication at this time.
+I usually use my CPAP machine in the morning.
+Every day I prepare lunch.
+I sometimes visit the library after work.
+I'll prepare a salad later.
+I'm scheduled to go to physical therapy.
+I'm supposed to attend a doctor's appointment.
+I've decided to put on makeup.
+I'm committed to video chat with my children.
+I've promised to go to the gym.
+I'm determined to water the plants.
+I'm eager to cook dinner.
+I'm reluctant to brush my teeth.
+I'm hesitant to change my bandage.
+I'm prepared to visit my neighbor.
+I'm excited to check social media.
+I'm dreading to do the laundry.
+I'm hoping to go for a walk soon.
+I'm looking forward to visit my neighbor.
+I'm not sure if I should get ready for bed.
+I'm wondering whether to use my CPAP machine.
+I'm trying to do a puzzle.
+I'm struggling to attend a meeting.
+I've been meaning to answer emails.
+I've been putting off swim.
+I've been avoiding check social media.
+I've been attempting to get some rest.
+I've been failing to update my calendar.
+I've been managing to cook dinner.
+I've been successful at go to the gym.
+I've been unable to work on my hobby.
+I'm in the middle of drink water.
+I'm in the process of drop off dry cleaning.
+I'm on the verge of comb my hair.
+Can I do my physical therapy exercises now?
+Do I need to invite guests over?
+When should I prepare lunch?
+How often should I eat breakfast?
+Why do I need to get dressed?
+Where should I mop the floor?
+What time should I change my bandage?
+Should I update my calendar today?
+Is it time to eat breakfast?
+Would it be better to update my calendar now or later?
+Am I supposed to call my friend regularly?
+Have I take out the trash yet?
+Did I invite guests over yesterday?
+Will I need to sleep in tomorrow?
+Could I mop the floor instead?
+Is it necessary to lie down for a bit?
+Is it important that I make a snack?
+Who can help me listen to music?
+What's the best way to go to the gym?
+How long should I meditate?
+How much time does it take to cut my nails?
+Would you recommend I get some rest?
+Is there a better way to swim?
+Is there an alternative to meditate?
+What happens if I don't go to the post office?
+What would be the consequence of not clean the bathroom?
+Is it safe to take a nap now?
+Is it appropriate to stop by the store here?
+I need to cool down.
+I need to wash my hands now.
+I really need something to eat.
+I'm feeling like I need to use the toilet.
+I think I need my cane.
+I am hungry, could you help me?
+I need quiet very much.
+Do you know if I need to use the toilet?
+I'm sorry, but I need to sleep.
+I just need reading glasses.
+I need to contact my nurse right now.
+I suddenly need a snack.
+I always need my cane at this time.
+I never need to cool down in the morning.
+I need a more comfortable chair after eating.
+I need my medication before sleeping.
+I need to go to the restroom when I wake up.
+I am uncomfortable during the day.
+I am too cold at night.
+I usually feel overwhelmed after work.
+I urgently need to take off my jacket.
+I desperately need to stand up.
+I occasionally need to take a break.
+I frequently need my cane.
+I consistently need to rest.
+I rarely feel anxious.
+I often need my wheelchair.
+I sometimes need help finding something.
+I am lost more than usual.
+I need directions less than before.
+I start to am lost when I'm stressed.
+I typically need a snack after exercise.
+I commonly need directions before an appointment.
+I primarily need to use the toilet on weekends.
+I especially need to use the bathroom during hot weather.
+I particularly am thirsty when I'm anxious.
+I mostly need to go to the restroom in the afternoon.
+I need to rest about once an hour.
+I need my glasses several times a day.
+I intermittently need a bandage.
+I have joint pain on a regular basis.
+I need help reaching that whenever I'm tired.
+I need to sit down as soon as possible.
+I need to go to the restroom immediately.
+I need fresh air right away.
+I moisturize my skin at 9 PM.
+I use my inhaler every semester.
+I floss my teeth consistently at half past ten.
+I usually attend a meeting around 9 o'clock.
+I always go to the gym before midnight.
+I never shave after 9 o'clock.
+I play a game daily in the twilight.
+My dust the furniture time is half past ten.
+I take out the trash from 7 PM to 8:30 PM.
+I organize my closet always during summer.
+I have go for a walk scheduled for 2 PM.
+I need to practice yoga by 7:30 PM.
+I should check my blood pressure at lunchtime today.
+I typically clean the bathroom at quarter to eight on Monday.
+I'm going to do my physical therapy exercises at 6:45 PM tomorrow.
+I've been invite guests over since 9 PM.
+I'll visit the library until 9 o'clock.
+I write a letter for several hours every meal.
+I'm supposed to meditate at 3:30 PM.
+I've been make a snack for the past all day.
+I'll be floss my teeth for the next an hour.
+I video chat with my children whenever I have time between noon and 1:30 PM.
+I prefer to get gas for the car early in the dawn.
+I tend to go to the bank late at midnight.
+I occasionally invite guests over during my morning.
+I'm at the synagogue now.
+I need to go to the clinic.
+I'm traveling to the bus stop.
+I'm in the the coffee shop take a nap.
+I'm at the home get gas for the car.
+I'll be at the parking lot until 12:15 PM.
+I'm heading to the gas station.
+I'm on my way to the physical therapy center.
+I need to stop by the bathroom.
+I'm going to my daughter's place.
+I'm currently at the balcony.
+I just arrived at the pharmacy.
+I recently left the train station.
+I'm about to leave the physical therapy center.
+I'm approaching the dental office.
+I've been at the hair salon for the whole afternoon.
+I'll be at the barber shop in 7 AM.
+I'm a long way away from the physical therapy center.
+I'm staying at the synagogue for all day.
+I need directions to the kitchen.
+I'm lost trying to find my son's house.
+I can't seem to locate my daughter's place.
+I'm supposed to be at the doctor's office by 7 AM.
+I have to be at the living room in 3:30 PM.
+I'm trying to get to the bus stop.
+I need transportation to the patio.
+I'm planning to visit my neighbor's house later.
+I'm returning to my friend's home soon.
+I need to meet someone at my apartment.
+I'm not sure how to get to the clinic.
+I'm wondering if the bathroom is open.
+I'm scheduled to be at my room at bedtime.
+I'd like to avoid the park today.
+I prefer to be at the clinic when I need something.
+After I clean the bathroom, I'll use my CPAP machine.
+Before lie down for a bit, I need to do the laundry.
+Once I finish set my alarm, I'll take out the trash.
+I'll organize my closet after I prepare a presentation.
+When I visit the library, I'll write a report first.
+I'll text my family and then take out the trash.
+First I'll invite guests over, followed by set my alarm.
+I need to go grocery shopping before I can attend a meeting.
+I won't eat breakfast until I garden.
+I'm planning to meditate right after I schedule appointments.
+As soon as I create a to-do list, I will attend a meeting.
+I'll start with set my alarm, then move on to swim.
+I have to garden prior to do a puzzle.
+I'll be shave while waiting to schedule appointments.
+Just after work on my hobby, I usually make phone calls.
+I always send an email immediately before go to physical therapy.
+I never send an email without first make phone calls.
+Between brush my teeth and take a nap, I'll need to get ready for bed.
+I'll have my protein shake, respond to messages, and finally get ready for bed.
+I typically shave during invite guests over.
+I'll finish prepare a presentation in time to clean the bathroom.
+I'm in the middle of water the plants, but I need to go to physical therapy soon.
+If I go to the bank, then I'll meditate afterward.
+I'll only do the laundry if I've already check my blood pressure.
+I'd prefer to use my CPAP machine before having to work on my hobby.
+I'm feeling frustrated today.
+I'm so calm right now.
+I'm a bit nervous about the conversation.
+I'm calm for my promotion.
+I feel calm about this project.
+I've been excited all day.
+I'm extremely calm at the moment.
+I'm somewhat frustrated after the trip.
+I'm increasingly sad about the meeting.
+I'm becoming more frustrated as time passes.
+I'm less nervous than I was earlier.
+I'm unusually frustrated today.
+I'm surprisingly sad considering the unexpected delay.
+I'm unexpectedly calm about this project.
+I've never felt this calm before.
+I'm feeling a mixture of excited and sad.
+I'm alternating between feeling calm and calm.
+I'm frustrated for no apparent reason.
+I'm not usually this happy.
+I'm generally happy in the twilight.
+I tend to get sad when I have transportation.
+I'm trying not to feel so sad.
+I can't help feeling nervous about the conversation.
+I'm struggling with feeling calm.
+I'm dealing with sad thoughts.
+I'm coping with my happy feelings.
+I wonder why I'm so calm today.
+Do you think it's normal to feel this frustrated?
+I wish I wasn't so excited right now.
+I need to take my paracetamol.
+I have a consultation tomorrow.
+I'm feeling fatigue today.
+I have a shoulders.
+My leg hurts.
+I'm experiencing headache in my stomach.
+I've been having headache for 30 minutes.
+My dizziness is getting unchanged.
+I need to monitor my blood pressure.
+I should check my cholesterol level frequently.
+I forgot to take my ibuprofen this morning.
+I'm due for my paracetamol in 6:45 PM.
+I need a refill for my antibiotics.
+I'm concerned about my diabetes.
+I think I might have diabetes.
+I've been diagnosed with high blood pressure.
+I'm recovering from arthritis.
+I'm managing my high blood pressure with physical therapy.
+I need to follow up about my high blood pressure.
+I should track my headache patterns.
+I've noticed a change in my heart rate.
+My nurse recommended I adjust medication.
+I need to schedule a therapy session.
+I'm due for my annual blood test.
+I need to adjust my aspirin dosage.
+I should avoid moisturize my skin because of my high blood pressure.
+I need to be careful about low iron levels.
+I'm allergic to pollen.
+I'm sensitive to strong scents.
+I need to inform my doctor about my fatigue.
+I need help have my protein shake.
+Can you help me with get ready for bed?
+I need assistance send an email.
+I can't cut my nails by myself.
+Could you help me get ready for bed?
+Would you mind helping me cut my nails?
+I'd appreciate some help with answer emails.
+I'm having trouble use my inhaler.
+I'm struggling to go to the post office alone.
+I'm not able to visit my neighbor without help.
+I require assistance to brush my teeth.
+I'm finding it difficult to sort the mail.
+I can't manage to visit my neighbor on my own.
+I would be grateful if you could help me organize my closet.
+I need someone to assist me with mop the floor.
+I'm looking for help with respond to messages.
+Is there anyone who can help me video chat with my children?
+Would it be possible for you to help me apply eye drops?
+I could use a hand with organize my closet.
+I'm not capable of check my blood pressure independently.
+I need support with visit my neighbor.
+I'm asking for assistance in visit the library.
+Could I get some help text my family?
+I'm dependent on help for sleep in.
+I rely on assistance to play a game.
+I'm unable to mop the floor without support.
+I find sleep in challenging without help.
+I would benefit from help with update my calendar.
+I'm in need of help to do my breathing exercises.
+I'm making steady progress with respond to messages.
+I've completed 50% of the assignment.
+I'm accelerating with floss my teeth now.
+I've been apply eye drops for the whole afternoon so far.
+I'm about two-thirds of the way through the report.
+I've made it to the first step in my career path.
+I'm currently working on the report.
+I've reached evaluation session in visit the pharmacy.
+I'm better at set my alarm than before.
+I've been cut my nails twice daily for two hours.
+I've noticed a decline since starting get dressed.
+I've been consistent with go to physical therapy for all evening.
+I'm struggling with efficiency of go to the post office.
+I've improved at communication by by 20%.
+I'm finding send an email worse than expected.
+I've managed to completed a major milestone recently.
+I haven't been able to get ready for bed as planned.
+I'm ahead of schedule with the report.
+I'm falling behind on the report.
+I need to catch up on the presentation.
+I need to clean the bedroom.
+The refrigerator needs servicing.
+I should organize my books.
+I need to fix the window.
+I have to replace the rug.
+The kitchen needs vacuuming.
+I'm planning to redecorate the living room.
+I need to buy soap.
+I should check if we have enough paper towels.
+I need to pay the water bill.
+I forgot to taking out the trash yesterday.
+I'm behind on dishes.
+I need to prepare for relatives coming over.
+The cat needs walking.
+I need to water the indoor plants.
+I have to sort through clothes today.
+I should dispose of trash.
+I need to set up heating system.
+I'm planning to rearrange the chair.
+The balcony needs attention soon.
